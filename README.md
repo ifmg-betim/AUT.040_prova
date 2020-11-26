@@ -1,6 +1,5 @@
 # Processamento de Sinais - AUT.040
 
-Material da disciplina de Processamento de Sinais do IFMG Betim.
+Template da PROVA 2: projeto de filtros digitais.
 
 
-done.
